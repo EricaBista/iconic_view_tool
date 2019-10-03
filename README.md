@@ -20,7 +20,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+IconicViewTool::Renderer.copyright 'Erica Bista', 'All right reserved'
+```
 
 ## Development
 
