@@ -9,7 +9,7 @@ Gem::Specification.new do |spec|
   spec.authors       = ["Erica Bista"]
   spec.email         = ["ericabista77@gmail.com"]
 
-  spec.summary       = %q{View releated methods for application.}
+  spec.summary       = %q{View related methods for application.}
   spec.description   = %q{Provides generated HTML data for Rails App}
   spec.homepage      = "https://iconicviewtool.com"
   spec.license       = "MIT"
